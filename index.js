@@ -7,9 +7,9 @@ function johnLennonFacts(array){
   }
 }
 
-/*function iLoveTheBeatles(num){
+function iLoveTheBeatles(n){
   let arr = []
   do{
 
   }while()
-}*/
+}
