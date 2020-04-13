@@ -3,7 +3,7 @@
 function johnLennonFacts(array){
   let index = 0
   while(index < array.length){
-    console.log(array + "!!!")
+    return array + "!!!"
   }
 }
 
