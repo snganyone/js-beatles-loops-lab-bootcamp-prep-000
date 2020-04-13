@@ -11,5 +11,5 @@ function iLoveTheBeatles(n){
   let arr = []
   do{
     arr + "I love the Beatles!"
-  }while()
+  }while(n < 15)
 }
